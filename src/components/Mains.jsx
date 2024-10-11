@@ -5,7 +5,7 @@ import {Link} from 'react-scroll';
 
 function Mains() {
   return (
-    <div className='w-full h-screen bg-[#0a192f]' name='main'>
+    <div className='w-full h-screen bg-[#141619]' name='main'>
         {/* Container */}
         <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
          
