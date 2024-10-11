@@ -20,8 +20,11 @@ function About() {
    
    <div>
     <p>
-      I love building softwares that makes people day to day activities easier. I specialize in creating backend applications ranging from small businesses to large enterprise. What would you do if you have software expert available at your fingers?
-  
+    I love building software that makes people's day-to-day activities easier and more efficient. I specialize in creating robust backend applications for a wide range of needs, from small businesses to large enterprises. With experience spanning AWS, Python, Java, and Node.js, I design solutions that are scalable, reliable, and tailored to meet unique business challenges.
+
+I’m passionate about streamlining processes and automating complex workflows, always focused on delivering software that has a tangible impact. Whether it's enhancing productivity or solving real-world problems, I take pride in crafting solutions that make a difference.
+
+What would you do if you had a software expert at your fingertips? Let’s build something that transforms your ideas into reality.
     </p>
    </div>
     </div>

@@ -100,7 +100,7 @@ function Navbar() {
           </li>
           <li className="w-[160px] h-[60px] justify-between  flex items-center text-gray-300 ml-[-100px] hover:ml-[-10px] duration-300 rounded-md bg-[#bd4848]">
             <a
-              href="/"
+              href="mailto:addo12kwame@outlook.com"
               className="flex justify-between items-center w-full text-gray-300"
             >
               Email <HiOutlineMail size={30} />
@@ -108,7 +108,7 @@ function Navbar() {
           </li>
           <li className="w-[160px] h-[60px] justify-between  flex items-center text-gray-300 ml-[-100px] hover:ml-[-10px] duration-300 rounded-md bg-[#813131]">
             <a
-              href="/"
+              href="https://kwamesbucket.s3.amazonaws.com/KwameGradds.pdf"
               className="flex justify-between items-center w-full text-gray-300"
             >
               Resume <BsFillPersonLinesFill size={30} />

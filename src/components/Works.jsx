@@ -9,7 +9,7 @@ function  Work() {
           <p className='text-4xl font-bold inline border-b-4 text-gray-300 border-pink-600'>
             Work
           </p>
-          <p className='py-6'>
+          <p className='py-6 text-xl'>
             Recent projects I worked on
           </p>
         </div>
