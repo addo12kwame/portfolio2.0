@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { FaBars, FaTimes, FaLinkedin, FaGithub } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Logo from "../assets/logo2.png";
 import { Link } from "react-scroll";
 import Pic from '../assets/pic.jpg'
 
@@ -20,27 +19,27 @@ function Navbar() {
       {/* Menu */}
 
       <ul className="hidden md:flex">
-        <li>
-          <Link to="main" smooth={true} duration={500}>
+        <li className="hover:bg-pink-600 hover:border-pink-600">
+          <Link to="main"  smooth={true} duration={500}>
             Home
           </Link>
         </li>
-        <li>
+        <li className="hover:bg-pink-600 hover:border-pink-600">
           <Link to="about" smooth={true} duration={500}>
             About
           </Link>
         </li>
-        <li>
+        <li className="hover:bg-pink-600 hover:border-pink-600">
           <Link to="skills" smooth={true} duration={500}>
             Skills
           </Link>
         </li>
-        <li>
+        <li className="hover:bg-pink-600 hover:border-pink-600">
           <Link to="work" smooth={true} duration={500}>
             Work
           </Link>
         </li>
-        <li>
+        <li className="hover:bg-pink-600 hover:border-pink-600">
           <Link to="contact" smooth={true} duration={500}>
             Contact
           </Link>
