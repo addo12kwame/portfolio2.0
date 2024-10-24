@@ -1,5 +1,6 @@
 import React from 'react'
 import Mp3 from '../assets/mp3sport.gif';
+import Youtube from '../assets/youtube-gif.gif';
 
 function  Work() {
   return (
@@ -21,41 +22,7 @@ function  Work() {
           <div style={{backgroundImage:`url(${Mp3})`}}
          className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                Java MusicPlayer 
-              </span>
-              <div className='pt-8 text-center'>
-                <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                </a>
-                <a href="https://github.com/addo12kwame/Java-MusicPlayer">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div style={{backgroundImage:`url(${Mp3})`}}
-         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-            
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                FTP Server 
-              </span>
-              <div className='pt-8 text-center'>
-                <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                </a>
-                <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div style={{backgroundImage:`url(${Mp3})`}}
-         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
+    
             
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
@@ -64,7 +31,7 @@ function  Work() {
               </span>
               <div className='pt-8 text-center'>
                 <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View</button>
                 </a>
                 <a href="https://github.com/addo12kwame/Java-MusicPlayer">
                   <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
@@ -72,55 +39,19 @@ function  Work() {
               </div>
             </div>
           </div>
-          <div style={{backgroundImage:`url(${Mp3})`}}
+          <div style={{backgroundImage:`url(${Youtube})`}}
          className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
             
             {/* Hover Effects */}
             <div className='opacity-0 group-hover:opacity-100'>
               <span className='text-2xl font-bold text-white tracking-wider'>
-                FTP Server 
+                Youtube Downloader
               </span>
               <div className='pt-8 text-center'>
                 <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
+                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>View</button>
                 </a>
-                <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div style={{backgroundImage:`url(${Mp3})`}}
-         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-            
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                Java MusicPlayer 
-              </span>
-              <div className='pt-8 text-center'>
-                <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                </a>
-                <a href="https://github.com/addo12kwame/Java-MusicPlayer">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
-                </a>
-              </div>
-            </div>
-          </div>
-          <div style={{backgroundImage:`url(${Mp3})`}}
-         className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'>
-            
-            {/* Hover Effects */}
-            <div className='opacity-0 group-hover:opacity-100'>
-              <span className='text-2xl font-bold text-white tracking-wider'>
-                FTP Server 
-              </span>
-              <div className='pt-8 text-center'>
-                <a href="/">
-                  <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Demo</button>
-                </a>
-                <a href="/">
+                <a href="https://github.com/addo12kwame/youtubedownloader">
                   <button className='text-center round-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>Code</button>
                 </a>
               </div>
